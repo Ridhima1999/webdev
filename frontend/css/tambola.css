@@ -1,0 +1,97 @@
+/* body{
+    margin: auto 10%;
+    font-family: 'Salsa', cursive;
+
+}
+
+table,tr,td{
+  
+    border:   1px solid  #999;  
+    
+    /* border-top: 0px solid black; */
+
+table{
+    margin-left: 14%;
+} 
+.head{
+    text-align: center;
+    background-color: cadetblue;
+}
+.button{
+    text-align: center;
+    height: 50px;
+    
+}
+.list{
+    text-align:center;
+    font-style: italic;
+}
+table,tr,td{
+
+  
+    border:   1px solid  #999;  
+    
+    
+    /* border-top: 0px solid black; */
+}
+
+.previous{
+    text-align:center;
+    font-size: 100px;
+    font-style: normal;
+    font: x-large;
+}
+td{
+    min-width:90px;
+    height: 35.2px;
+    font-size: 23px;
+    text-align: left;
+    padding: 0px !important;
+    margin: 0%;
+}
+.number{
+font-size: 70px;
+text-align: center;
+padding-bottom: 13px;
+color:blue;
+padding-top: 30px;
+}
+td{
+    min-width:90px;
+    height: 35.2px;
+    font-size: 23px;
+    text-align: left;
+    padding: 0px !important;
+    margin: 0%;
+}
+
+.adjust{
+    width: 40%;
+    float: left;
+}
+/* .previous{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+} */
+/* .rules{
+    max-width: 200px;
+    min-height: 350px;
+    margin-right: 3%;
+} */
+/* .home{
+  margin-top: 20px;
+
+  width:200% !important;
+} */
+
+/* @media (max-width:685px){
+    /* body{
+        margin:0%;
+    } */ */
+    .adjust{
+        float :none;
+        min-width:100%;
+        margin-bottom: 30px;
+    }
+
